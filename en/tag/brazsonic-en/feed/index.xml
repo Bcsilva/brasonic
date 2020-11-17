@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brazsonic &#8211; BraSonic</title>
+	<atom:link href="/en/tag/brazsonic-en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>site oficial do jogo</description>
+	<lastBuildDate>Tue, 07 Jul 2020 17:07:23 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/03/cropped-bs1title-1-32x32.png</url>
+	<title>brazsonic &#8211; BraSonic</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>June-end major updates</title>
+		<link>/en/brazsonic-20xx/june-end-major-updates/</link>
+		
+		<dc:creator><![CDATA[@Camper.arts]]></dc:creator>
+		<pubDate>Tue, 30 Jun 2020 19:01:34 +0000</pubDate>
+				<category><![CDATA[BrazSonic 20XX]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[brazsonic]]></category>
+		<category><![CDATA[brazsonic 20xx]]></category>
+		<category><![CDATA[major update]]></category>
+		<category><![CDATA[mission mode]]></category>
+		<guid isPermaLink="false">/?p=2156</guid>
+
+					<description><![CDATA[<p>To close June with something new to show, there is a new build of the Demo of BrazSonic 20XX for download, with a new game mode, more accessibility, new stage songs, more bugfixes. Here we have a great update for the DEMO of the BrazSonic 20XX, although it will also be available for the 20th. [&#8230;]</p>
+<p>O post <a rel="nofollow" href="/en/brazsonic-20xx/june-end-major-updates/">June-end major updates</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&#038;title=June-end%20major%20updates" data-a2a-url="/en/brazsonic-20xx/june-end-major-updates/" data-a2a-title="June-end major updates"></a></p>
+<p>To close June with something new to show, there is a new build of the Demo of BrazSonic 20XX for download, with a new game mode, more accessibility, new stage songs, more bugfixes.</p>
+
+
+
+<p>Here we have a great update for the DEMO of the BrazSonic 20XX, although it will also be available for the 20th. edition of <strong>SAGE (Sonic Amateur Game Expo),</strong> an international virtual fair of Sonic fan games that take place every year, and this time, BrazSonic will not be left out, as it is here to stay!</p>
+
+
+
+<p>This build was one of the hardest ones because, in addition to fixing some bugs still present, I wanted to do something different from previous builds, that would not make this just another patch with some bugs fixed.</p>
+
+
+
+<p>The new main addition here is Mission Mode, something that has existed since Sonic Adventure in official games, where there are different objectives besides reaching the end of the level. Each level has a specific mission, hunting for things (coins, enemies), delivering things (I&#8217;ll explain later), running away from things, and reaching the end in a different direction.</p>
+
+
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+<iframe title="BrazSonic 20XX Final DEMO - International Trailer (fixed)" width="800" height="450" src="https://www.youtube.com/embed/MEj_dTnMy6c?feature=oembed" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div></figure>
+
+
+
+<h4>What we have so far of &#8220;missions&#8221;:</h4>
+
+
+
+<ul><li><strong>Reverse direction:</strong> play the stage in the opposite direction, running to the left</li><li><strong>Delivery Day:</strong> in the middle of the pandemic, BrazSonic, and his friends will have to work outside the home as couriers. Spend it in places and deliver the food before it gets cold, plus 5 minutes for that! To help you have an arrow to show your destination, either to deliver the business or to seek delivery; fire shield to cool less; and even speed monitors to speed you up. To disrupt, common obstacles such as traffic, enemies of the levels, and water shields that can cool the delivery! Remember, you will have 5 minutes!</li><li><strong>Defeat all enemies:</strong> detonate all enemies on the level</li><li><strong>Collect all coins:</strong> collect all coins in the stage</li><li><strong>Race against Metal BrazSonic: </strong>reach the end before the metallic copy of BrazSonic</li><li><strong>Fire chase:</strong> everything is on fire, just run!</li><li><strong>Going through the darkness:</strong> cross the stage through the dark, and be very careful, new and deadly dangers will be lurking around.</li></ul>
+
+
+
+<p>This mode was to be completed only in the final version of the game, which will be ready later this year, but I decided to anticipate it.</p>
+
+
+
+<p>We have an implementation of accessibility for mobile, where it will now be possible to configure the position and size of the buttons on the screen, something very present in mobile video game emulator applications.</p>
+
+
+
+<p>The project features original musical productions and remixed respectively by the great @sonico_cadeirante and @ SonicFã342</p>
+
+
+
+<p>I also thank everyone from the Beta Testing channel on the project discord and a few outsiders for their patience and willingness to test game updates.</p>
+
+
+
+<p>Well, this build, with all these new implementations, is also the definitive one, as it will be released at SAGE 2020. And the next uploads will only be patches just to fix bugs.</p>
+
+
+
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><a href="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0000_demo_mission_15.png" data-rel="lightbox-image-0" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0000_demo_mission_15.png" alt="" data-id="2092" data-full-url="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0000_demo_mission_15.png" data-link="/?attachment_id=2092" class="wp-image-2092" srcset="/wp-content/uploads/2020/06/bs_screenies_0000_demo_mission_15.png 480w, /wp-content/uploads/2020/06/bs_screenies_0000_demo_mission_15-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0001_demo_mission_14.png" data-rel="lightbox-image-1" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0001_demo_mission_14.png" alt="" data-id="2093" data-full-url="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0001_demo_mission_14.png" data-link="/?attachment_id=2093" class="wp-image-2093" srcset="/wp-content/uploads/2020/06/bs_screenies_0001_demo_mission_14.png 480w, /wp-content/uploads/2020/06/bs_screenies_0001_demo_mission_14-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0002_demo_mission_13.png" data-rel="lightbox-image-2" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0002_demo_mission_13.png" alt="" data-id="2094" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0002_demo_mission_13.png" data-link="/?attachment_id=2094" class="wp-image-2094" srcset="/wp-content/uploads/2020/06/bs_screenies_0002_demo_mission_13.png 480w, /wp-content/uploads/2020/06/bs_screenies_0002_demo_mission_13-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0003_demo_mission_12.png" data-rel="lightbox-image-3" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0003_demo_mission_12.png" alt="" data-id="2095" data-full-url="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0003_demo_mission_12.png" data-link="/?attachment_id=2095" class="wp-image-2095" srcset="/wp-content/uploads/2020/06/bs_screenies_0003_demo_mission_12.png 480w, /wp-content/uploads/2020/06/bs_screenies_0003_demo_mission_12-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0004_demo_mission_11.png" data-rel="lightbox-image-4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0004_demo_mission_11.png" alt="" data-id="2096" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0004_demo_mission_11.png" data-link="/?attachment_id=2096" class="wp-image-2096" srcset="/wp-content/uploads/2020/06/bs_screenies_0004_demo_mission_11.png 480w, /wp-content/uploads/2020/06/bs_screenies_0004_demo_mission_11-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0005_demo_mission_10.png" data-rel="lightbox-image-5" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0005_demo_mission_10.png" alt="" data-id="2097" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0005_demo_mission_10.png" data-link="/?attachment_id=2097" class="wp-image-2097" srcset="/wp-content/uploads/2020/06/bs_screenies_0005_demo_mission_10.png 480w, /wp-content/uploads/2020/06/bs_screenies_0005_demo_mission_10-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0006_demo_mission_09.png" data-rel="lightbox-image-6" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0006_demo_mission_09.png" alt="" data-id="2098" data-full-url="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0006_demo_mission_09.png" data-link="/?attachment_id=2098" class="wp-image-2098" srcset="/wp-content/uploads/2020/06/bs_screenies_0006_demo_mission_09.png 480w, /wp-content/uploads/2020/06/bs_screenies_0006_demo_mission_09-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0007_demo_mission_08.png" data-rel="lightbox-image-7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0007_demo_mission_08.png" alt="" data-id="2099" data-full-url="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0007_demo_mission_08.png" data-link="/?attachment_id=2099" class="wp-image-2099" srcset="/wp-content/uploads/2020/06/bs_screenies_0007_demo_mission_08.png 480w, /wp-content/uploads/2020/06/bs_screenies_0007_demo_mission_08-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0008_demo_mission_07.png" data-rel="lightbox-image-8" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0008_demo_mission_07.png" alt="" data-id="2100" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0008_demo_mission_07.png" data-link="/?attachment_id=2100" class="wp-image-2100" srcset="/wp-content/uploads/2020/06/bs_screenies_0008_demo_mission_07.png 480w, /wp-content/uploads/2020/06/bs_screenies_0008_demo_mission_07-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0009_demo_mission_06.png" data-rel="lightbox-image-9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0009_demo_mission_06.png" alt="" data-id="2101" data-full-url="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0009_demo_mission_06.png" data-link="/?attachment_id=2101" class="wp-image-2101" srcset="/wp-content/uploads/2020/06/bs_screenies_0009_demo_mission_06.png 480w, /wp-content/uploads/2020/06/bs_screenies_0009_demo_mission_06-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0010_demo_mission_05.png" data-rel="lightbox-image-10" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0010_demo_mission_05.png" alt="" data-id="2102" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0010_demo_mission_05.png" data-link="/?attachment_id=2102" class="wp-image-2102" srcset="/wp-content/uploads/2020/06/bs_screenies_0010_demo_mission_05.png 480w, /wp-content/uploads/2020/06/bs_screenies_0010_demo_mission_05-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0011_demo_mission_04.png" data-rel="lightbox-image-11" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0011_demo_mission_04.png" alt="" data-id="2103" data-full-url="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0011_demo_mission_04.png" data-link="/?attachment_id=2103" class="wp-image-2103" srcset="/wp-content/uploads/2020/06/bs_screenies_0011_demo_mission_04.png 480w, /wp-content/uploads/2020/06/bs_screenies_0011_demo_mission_04-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0012_demo_mission_03.png" data-rel="lightbox-image-12" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0012_demo_mission_03.png" alt="" data-id="2104" data-full-url="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0012_demo_mission_03.png" data-link="/?attachment_id=2104" class="wp-image-2104" srcset="/wp-content/uploads/2020/06/bs_screenies_0012_demo_mission_03.png 480w, /wp-content/uploads/2020/06/bs_screenies_0012_demo_mission_03-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0013_demo_mission_02.png" data-rel="lightbox-image-13" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i3.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0013_demo_mission_02.png" alt="" data-id="2105" data-full-url="//i1.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0013_demo_mission_02.png" data-link="/?attachment_id=2105" class="wp-image-2105" srcset="/wp-content/uploads/2020/06/bs_screenies_0013_demo_mission_02.png 480w, /wp-content/uploads/2020/06/bs_screenies_0013_demo_mission_02-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0014_demo_mission_01.png" data-rel="lightbox-image-14" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" width="480" height="270" src="//i2.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0014_demo_mission_01.png" alt="" data-id="2106" data-full-url="//i0.wp.com/brasonic.com/wp-content/uploads/2020/06/bs_screenies_0014_demo_mission_01.png" data-link="/?attachment_id=2106" class="wp-image-2106" srcset="/wp-content/uploads/2020/06/bs_screenies_0014_demo_mission_01.png 480w, /wp-content/uploads/2020/06/bs_screenies_0014_demo_mission_01-300x169.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li></ul></figure>
+
+
+
+<h4>New implementations:</h4>
+
+
+
+<ul><li>some music tracks by @sonico_cadeirante (original) and @SonicFã342 (remixed)</li><li>new flying animations for PeloTails</li><li>All characters are going to wear masks in the Delivery mission</li><li>now it is possible to press the jump button in the air to type: flying, homing attack, shield ability &#8230; this doesn’t have in the original Sonics, but I did it to give more reflex to the player (even though it’s kind of &#8220;overpower&#8221;)</li><li>Fire shield can burn the ground and hit opponents in multiplayer</li><li>Sparks from the lightning shield can hit enemies and opponents in multiplayer</li><li>Graffiti in the Sampa Zone</li><li>New billboards</li></ul>
+
+
+
+<h4>Bugfixes:</h4>
+
+
+
+<ul><li>Corrections to character animations</li><li>Elemental shields more faithful to the original Sonic games</li><li>Improved English and Spanish translations</li><li>the character before falls off platforms with the water shield and modern Sonic stomp</li><li>the character could move before the level started</li><li>corrections to the title cards of the phases</li><li>The time for dialogue with Mollynho</li><li>Improved Iguaçu rapids</li><li>Submerged currents from Iguaçu no longer lock the character when hit by spikes as before</li><li>pause during special stages</li></ul>
+
+
+
+<h4>Let the full version of BraSonic 20XX come!</h4>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/en/brazsonic-20xx/june-end-major-updates/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background:  !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&amp;linkname=June-end%20major%20updates" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-20xx%2Fjune-end-major-updates%2F&#038;title=June-end%20major%20updates" data-a2a-url="/en/brazsonic-20xx/june-end-major-updates/" data-a2a-title="June-end major updates"></a></p><p>O post <a rel="nofollow" href="/en/brazsonic-20xx/june-end-major-updates/">June-end major updates</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>More BraSonic 2 vids!</title>
+		<link>/en/brazsonic-2/more-brasonic-2-vids/</link>
+		
+		<dc:creator><![CDATA[@Camper.arts]]></dc:creator>
+		<pubDate>Sun, 24 Mar 2019 15:52:20 +0000</pubDate>
+				<category><![CDATA[BrazSonic 2]]></category>
+		<category><![CDATA[brazsonic]]></category>
+		<category><![CDATA[cancelled]]></category>
+		<guid isPermaLink="false">/?p=992</guid>
+
+					<description><![CDATA[<p>Hello folks, how are youe weekend! I was about uploading the last videos of BrazSonic 2 gameplay, with the remaining zones, there they are: Pelotas Zone Iguaçu Zone Pantanal Zone Belém Zone Ama Zone Those are just brief gameplays, made in order to show the working level flow and resources, not the broken stuff and [&#8230;]</p>
+<p>O post <a rel="nofollow" href="/en/brazsonic-2/more-brasonic-2-vids/">More BraSonic 2 vids!</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&#038;title=More%20BraSonic%202%20vids%21" data-a2a-url="/en/brazsonic-2/more-brasonic-2-vids/" data-a2a-title="More BraSonic 2 vids!"></a></p>
+<p>Hello folks, how are youe weekend!</p>
+
+
+
+<p>I was about uploading the last videos of BrazSonic 2 gameplay, with the remaining zones, there they are:</p>
+
+
+
+<ul><li><a rel="noreferrer noopener" aria-label="Pelotas Zone (abre numa nova aba)" href="https://www.youtube.com/watch?v=bNv5b4Ev6ps" data-rel="lightbox-video-0" target="_blank">Pelotas Zone</a></li><li><a rel="noreferrer noopener" aria-label="Iguaçu Zone (abre numa nova aba)" href="https://www.youtube.com/watch?v=vY4evzdV2ms" data-rel="lightbox-video-1" target="_blank">Iguaçu Zone</a></li><li><a rel="noreferrer noopener" aria-label="Pantanal Zone (abre numa nova aba)" href="https://www.youtube.com/watch?v=SGeleZY_eHc" data-rel="lightbox-video-2" target="_blank">Pantanal Zone</a></li><li><a rel="noreferrer noopener" aria-label="Belém Zone (abre numa nova aba)" href="https://www.youtube.com/watch?v=rkKUvK4uzrU" data-rel="lightbox-video-3" target="_blank">Belém Zone</a></li><li><a href="https://www.youtube.com/watch?v=i5ZQ2sWSVHM&amp;feature=youtu.be" data-rel="lightbox-video-4" target="_blank" rel="noreferrer noopener" aria-label="Ama Zone (abre numa nova aba)">Ama Zone</a></li></ul>
+
+
+
+<p>Those are just brief gameplays, made in order to show the working level flow and resources, not the broken stuff and the bugs.</p>
+
+
+
+<p>The most &#8220;playable&#8221; levels are Ama Zone, Iguaçu and Pantanal. </p>
+
+
+
+<p>Therefore, the newer videos have been included on the <a href="http://youtube.com/channel/UCaQdKYlSY3LCATiMotedIuQ/videos(abrir em uma nova aba)">BrazSonic&#8217;s youtube channel</a> playlist for you watch in advance:</p>
+
+
+
+<iframe width="100%" height="480" src="https://www.youtube.com/embed/videoseries?list=PLj8pzAGhS537pfo_wf_BUj6ItDGz0PZsC" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen=""></iframe>
+
+
+
+<p>Bye!</p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/en/brazsonic-2/more-brasonic-2-vids/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background:  !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&amp;linkname=More%20BraSonic%202%20vids%21" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fmore-brasonic-2-vids%2F&#038;title=More%20BraSonic%202%20vids%21" data-a2a-url="/en/brazsonic-2/more-brasonic-2-vids/" data-a2a-title="More BraSonic 2 vids!"></a></p><p>O post <a rel="nofollow" href="/en/brazsonic-2/more-brasonic-2-vids/">More BraSonic 2 vids!</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

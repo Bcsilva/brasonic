@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>brazsonic 2 &#8211; BraSonic</title>
+	<atom:link href="/en/tag/brazsonic-2-en/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>site oficial do jogo</description>
+	<lastBuildDate>Mon, 01 Jul 2019 03:20:18 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+
+<image>
+	<url>/wp-content/uploads/2019/03/cropped-bs1title-1-32x32.png</url>
+	<title>brazsonic 2 &#8211; BraSonic</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>BrazSonic 2 post mortem memories</title>
+		<link>/en/brazsonic-2/brazsonic-2-post-mortem-memories/</link>
+		
+		<dc:creator><![CDATA[@Camper.arts]]></dc:creator>
+		<pubDate>Mon, 11 Mar 2019 17:17:49 +0000</pubDate>
+				<category><![CDATA[BrazSonic 2]]></category>
+		<category><![CDATA[brazsonic 2]]></category>
+		<category><![CDATA[cancelled game]]></category>
+		<guid isPermaLink="false">/?p=1189</guid>
+
+					<description><![CDATA[<p>Hello there, I have bad news that I could notice a long time ago, BrazSonic 2 is not going to be released anymore. I made a section just to describe the full story of BrazSonic 2 development years, with pros an cons, estimated stages, learned lessions, footages, screenshots, and other infos that are worth reading. [&#8230;]</p>
+<p>O post <a rel="nofollow" href="/en/brazsonic-2/brazsonic-2-post-mortem-memories/">BrazSonic 2 post mortem memories</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></description>
+										<content:encoded><![CDATA[<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&#038;title=BrazSonic%202%20post%20mortem%20memories" data-a2a-url="/en/brazsonic-2/brazsonic-2-post-mortem-memories/" data-a2a-title="BrazSonic 2 post mortem memories"></a></p>
+<p>Hello there,</p>
+
+
+
+<p>I have bad news that I could notice a long time ago, BrazSonic 2 is not going to be released anymore.</p>
+
+
+
+<ul class="wp-block-gallery columns-4 is-cropped"><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/bs2_intro.jpg" data-rel="lightbox-image-0" data-rl_title="Brasonic 2 - 2005 titulo" data-rl_caption="" title="Brasonic 2 - 2005 titulo"><img loading="lazy" width="320" height="240" src="/wp-content/uploads/2019/01/bs2_intro.jpg" alt="Brasonic 2 - 2005 titulo" data-id="450" data-link="/bs2_intro/" class="wp-image-450" srcset="/wp-content/uploads/2019/01/bs2_intro.jpg 320w, /wp-content/uploads/2019/01/bs2_intro-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/shot0009.jpg" data-rel="lightbox-image-1" data-rl_title="Brasonic 2 - 2005 rio" data-rl_caption="" title="Brasonic 2 - 2005 rio"><img loading="lazy" width="320" height="240" src="/wp-content/uploads/2019/01/shot0009.jpg" alt="Brasonic 2 - 2005 rio" data-id="457" data-link="/shot0009/" class="wp-image-457" srcset="/wp-content/uploads/2019/01/shot0009.jpg 320w, /wp-content/uploads/2019/01/shot0009-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/random_0003.jpg" data-rel="lightbox-image-2" data-rl_title="Brasonic 2 - 2005 sampa" data-rl_caption="" title="Brasonic 2 - 2005 sampa"><img loading="lazy" width="320" height="240" src="/wp-content/uploads/2019/01/random_0003.jpg" alt="Brasonic 2 - 2005 sampa" data-id="199" data-link="/random_0003/" class="wp-image-199" srcset="/wp-content/uploads/2019/01/random_0003.jpg 320w, /wp-content/uploads/2019/01/random_0003-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/random_0002.jpg" data-rel="lightbox-image-3" data-rl_title="Brasonic 2 - 2005 boss" data-rl_caption="" title="Brasonic 2 - 2005 boss"><img loading="lazy" width="320" height="240" src="/wp-content/uploads/2019/01/random_0002.jpg" alt="Brasonic 2 - 2005 boss" data-id="198" data-link="/random_0002/" class="wp-image-198" srcset="/wp-content/uploads/2019/01/random_0002.jpg 320w, /wp-content/uploads/2019/01/random_0002-300x225.jpg 300w" sizes="(max-width: 320px) 100vw, 320px" /></a></figure></li></ul>
+
+
+
+<p>I made a section just to describe the full story of BrazSonic 2 development years, with pros an cons, estimated stages, learned lessions, footages, screenshots, and other infos that are worth reading.</p>
+
+
+
+<ul class="wp-block-gallery columns-2 is-cropped"><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/telas2012_1.png" data-rel="lightbox-image-4" data-rl_title="Brasonic 2 - 2013 - titulo" data-rl_caption="" title="Brasonic 2 - 2013 - titulo"><img loading="lazy" width="480" height="284" src="/wp-content/uploads/2019/01/telas2012_1.png" alt="Brasonic 2 - 2013 - titulo" data-id="321" data-link="/telas2012_1/" class="wp-image-321" srcset="/wp-content/uploads/2019/01/telas2012_1.png 480w, /wp-content/uploads/2019/01/telas2012_1-300x178.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/screenshot237.jpg" data-rel="lightbox-image-5" data-rl_title="Brasonic 2 - 2013 - minas 2" data-rl_caption="" title="Brasonic 2 - 2013 - minas 2"><img loading="lazy" width="480" height="270" src="/wp-content/uploads/2019/01/screenshot237.jpg" alt="Brasonic 2 - 2013 - minas 2" data-id="358" data-link="/screenshot237/" class="wp-image-358" srcset="/wp-content/uploads/2019/01/screenshot237.jpg 480w, /wp-content/uploads/2019/01/screenshot237-300x169.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/screenshot295.jpg" data-rel="lightbox-image-6" data-rl_title="Brasonic 2 - 2013 - rio 2" data-rl_caption="" title="Brasonic 2 - 2013 - rio 2"><img loading="lazy" width="480" height="270" src="/wp-content/uploads/2019/01/screenshot295.jpg" alt="Brasonic 2 - 2013 - rio 2" data-id="367" data-link="/screenshot295/" class="wp-image-367" srcset="/wp-content/uploads/2019/01/screenshot295.jpg 480w, /wp-content/uploads/2019/01/screenshot295-300x169.jpg 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li><li class="blocks-gallery-item"><figure><a href="/wp-content/uploads/2019/01/screenshot114.png" data-rel="lightbox-image-7" data-rl_title="Brasonic 2 - 2013 - acre 3" data-rl_caption="" title="Brasonic 2 - 2013 - acre 3"><img loading="lazy" width="480" height="320" src="/wp-content/uploads/2019/01/screenshot114.png" alt="Brasonic 2 - 2013 - acre 3" data-id="387" data-link="/screenshot114/" class="wp-image-387" srcset="/wp-content/uploads/2019/01/screenshot114.png 480w, /wp-content/uploads/2019/01/screenshot114-300x200.png 300w" sizes="(max-width: 480px) 100vw, 480px" /></a></figure></li></ul>
+
+
+
+<p>There also some playable beta builds for downloading.</p>
+
+
+
+<p>Também estão disponíveis alguns protótipos e demos do BraSonic 2 para download, com muitos bugs e curiosidades!</p>
+
+
+
+<p style="text-align:right"><strong><a href="/en/brazsonic2/">Visit BrazSonic 2 section ></a></strong></p>
+<div class="fb-background-color">
+			  <div 
+			  	class = "fb-comments" 
+			  	data-href = "/en/brazsonic-2/brazsonic-2-post-mortem-memories/"
+			  	data-numposts = "10"
+			  	data-lazy = "true"
+				data-colorscheme = "light"
+				data-order-by = "social"
+				data-mobile=true>
+			  </div></div>
+		  <style>
+		    .fb-background-color {
+				background:  !important;
+			}
+			.fb_iframe_widget_fluid_desktop iframe {
+			    width: 100% !important;
+			}
+		  </style>
+		  <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_whatsapp" href="https://www.addtoany.com/add_to/whatsapp?linkurl=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&amp;linkname=BrazSonic%202%20post%20mortem%20memories" title="WhatsApp" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fbrasonic.com%2Fen%2Fbrazsonic-2%2Fbrazsonic-2-post-mortem-memories%2F&#038;title=BrazSonic%202%20post%20mortem%20memories" data-a2a-url="/en/brazsonic-2/brazsonic-2-post-mortem-memories/" data-a2a-title="BrazSonic 2 post mortem memories"></a></p><p>O post <a rel="nofollow" href="/en/brazsonic-2/brazsonic-2-post-mortem-memories/">BrazSonic 2 post mortem memories</a> apareceu primeiro em <a rel="nofollow" href="/en/main">BraSonic</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
